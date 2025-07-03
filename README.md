@@ -2,8 +2,8 @@
 
 A simple and interactive web-based memory game where players must follow and repeat an increasingly complex sequence of colors. Inspired by the classic **Simon Game**.
 
-![Game Screenshot](screenshots/Screenshot-2025-07-03-233907.png)
-![Gameplay Example](screenshots/Screenshot-2025-07-03-234053.png)
+![Game Screenshot](screenshots/img1.png)
+![Gameplay Example](screenshots/img2.png)
 
 
 ## 🧠 How to Play
